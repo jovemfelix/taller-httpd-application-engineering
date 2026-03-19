@@ -4,4 +4,4 @@
 FROM registry.access.redhat.com/ubi9/httpd-24:9.7
 
 # Crear el archivo index.html con el texto "hola"
-RUN echo "taller 19" > /var/www/html/index.html
+RUN echo "taller 19 - 14:39" > /var/www/html/index.html
